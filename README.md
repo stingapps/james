@@ -1,5 +1,5 @@
 ## 𝗪𝗘𝗟𝗖𝗢𝗠E 𝗧𝗢 𝗝𝗔𝗠𝗘𝗦 𝗠𝗗 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=350&height=50&lines=`🩸⃟༑༑𝗝𝗔𝗠𝗘𝗦`🩸⃟༑༑+𝗠𝗗+𝗕𝗢𝗧+`🩸⃟༑༑)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=350&height=50&lines=`🩸⃟༑༑STING`🩸⃟༑༑+𝗠𝗗+𝗕𝗢𝗧+`🩸⃟༑༑)](https://git.io/typing-svg)
 
 <p align="centre"><img src="https://files.catbox.moe/7x56tx.jpg" width="800" height="400" />
 
@@ -12,7 +12,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=815&height=60&lines=𝗝𝗔𝗠𝗘𝗦`🩸⃟༑༑+𝗠𝗗+𝗕𝗢𝗧`🩸⃟༑༑+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+`🩸⃟༑༑𝗝𝗔𝗠𝗘𝗦𝗧𝗘𝗖𝗛)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=815&height=60&lines=STING`🩸⃟༑༑+𝗠𝗗+𝗕𝗢𝗧`🩸⃟༑༑+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+`🩸⃟༑༑STING TECH)](https://git.io/typing-svg) 
 
 <p align="centre"><img src="https://files.catbox.moe/rjkqfo.jpg" width="600" height="200" />
 
@@ -24,19 +24,19 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=900&height=60&lines=𝗣𝗥𝗢𝗚𝗥𝗘𝗦𝗦`🩸⃟༑༑+𝗙𝗢𝗥+𝗝À𝗠𝗘𝗦`🩸⃟༑༑+𝗠𝗗+𝗕𝗢𝗧+`🩸⃟༑༑)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=900&height=60&lines=𝗣𝗥𝗢𝗚𝗥𝗘𝗦𝗦`🩸⃟༑༑+𝗙𝗢𝗥+STING`🩸⃟༑༑+𝗠𝗗+𝗕𝗢𝗧+`🩸⃟༑༑)](https://git.io/typing-svg) 
 
 
 <
 
- <p align="center"><img src="https://profile-counter.glitch.me/{JAMES-MD}/count.svg" alt="James :: Visitor's Count" old_src="https://profile-counter.glitch.me/{mustaffa}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{STING-MD}/count.svg" alt="sting :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Sting}/count.svg" /></p>
 
 
 
 
 
 
-## HOW TO GET  `🩸⃟༑༑JAMES MD `🩸⃟༑༑BOT
+## HOW TO GET  `🩸⃟༑༑STING `🩸⃟༑༑BOT
 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗙𝗢𝗥𝗞🩸⃟+𝗔𝗡𝗗`🩸⃟༑༑+𝗦𝗧𝗔𝗥`🩸⃟༑༑+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
@@ -45,7 +45,7 @@
 
   
    
-   <a href="https://github.com/jtechde/james/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=red&style=for-the-badge&logo=tesla" width="297" height="40.45"/></a></p>
+   <a href="https://github.com/jtechde/Sting/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=red&style=for-the-badge&logo=tesla" width="297" height="40.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -76,7 +76,7 @@
 
    ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/jtechde/james"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=green&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/sting tech/sting"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=green&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭`🩸⃟༑༑+▬+`🩸⃟༑༑▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
@@ -87,7 +87,7 @@
 
 ## FINAL`🩸⃟༑༑ REMARKS `🩸⃟༑༑ON MY REPO (STATS)
 
-![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=jtechde&repo=james&show_owner=true&theme=dark)
+![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=sting tech &repo=sting &show_owner=true&theme=dark)
 
 
 
@@ -99,10 +99,10 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## CONTACT`🩸⃟༑༑ JAMES `🩸⃟༑༑TECH HERE
+## CONTACT`🩸⃟༑༑ STING `🩸⃟༑༑TECH HERE
   DM FOR SERIOUS BUSINESS
 
-   <a href="https://github.com/jtechde/james"><img title="CONTACT-JAMES" src="https://img.shields.io/badge/CONTACT-JAMES-h?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
+   <a href="https://github.com/jtechde/sting tech"><img title="CONTACT-STING" src="https://img.shields.io/badge/CONTACT-STING-h?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
 
    <p align="centre"><img src="https://files.catbox.moe/ziyoyl.jpg" width="800" height="400" />
 
